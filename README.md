@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a projects that's being written in Go and React.
+🔭 Working on projects that's being written in Go and React.
 
 
 ## 🌐 Socials:
